@@ -16,20 +16,22 @@
   <img align="center" alt="vscode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Node js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
+
+<div>
+  <br>
+  <a href="https://github.com/DaniloVFreire">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DaniloVFreire&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloVFreire&layout=compact&langs_count=7&theme=dracula"/>
+    </a>
+</div><br>
+  
 You can contact me at:  
+  
 <div>
 <a href="https://www.linkedin.com/in/danilo-freire-540579226/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-</div>  
-  
-  
-<div>
-  <br><br>
-  <a href="https://github.com/DaniloVFreire">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DaniloVFreire&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloVFreire&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div>  <br>
 
 ### Contributions :white_check_mark:
 ![Snake animation](https://github.com/DaniloVFreire/DaniloVFreire/blob/output/github-contribution-grid-snake.svg)

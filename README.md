@@ -21,8 +21,9 @@ You can contact me at:
 <a href="https://www.linkedin.com/in/danilo-freire-540579226/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-</div>
-## Contributions :white_check_mark:
+</div>  
+
+### Contributions :white_check_mark:
 
 ![Snake animation](https://github.com/DaniloVFreire/DaniloVFreire/blob/output/snake.svg)
 <!--

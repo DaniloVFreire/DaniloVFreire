@@ -24,5 +24,3 @@ You can contact me at:
 </div>  
 
 ### Contributions :white_check_mark:
-
-![Snake animation](https://github.com/DaniloVFreire/DaniloVFreire/blob/output/snake.svg)

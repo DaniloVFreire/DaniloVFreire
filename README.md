@@ -1,5 +1,5 @@
 ### Hello, you can call-me **Danilo Freire** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="25px" style="margin-right:10px">
-<img align="right" alt="My gif" height="160" width="160" src="https://cdn.discordapp.com/attachments/843611480750555136/910666970511327272/picasion.com_d6804634a6c8fe057fc0de154d61f39a.gif">
+<img align="right" alt="My gif" height="128" width="128" src="https://cdn.discordapp.com/attachments/843611480750555136/910666970511327272/picasion.com_d6804634a6c8fe057fc0de154d61f39a.gif">
 - :books: I'm A Brazilian computer science student at UFAL(Federal University of Alagoas);  
 
 - 🌱 Growing bigger in my web full stack development skills.

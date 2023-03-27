@@ -1,6 +1,6 @@
 ### Hello, you can call-me **Danilo Freire** <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="10px" style="margin-right:10px">-->
-<img align="right" alt="My gif" height="128" width="128" src="https://cdn.discordapp.com/attachments/843611480750555136/911730147030356078/picasion.com_29559dd78cb6e27367dbba045babf8f9.gif">
-
+<!-- <img align="right" alt="My gif" height="128" width="128" src="https://cdn.discordapp.com/attachments/843611480750555136/911730147030356078/picasion.com_29559dd78cb6e27367dbba045babf8f9.gif">
+ -->
 
 - :books: I'm A Brazilian computer science student at UFAL(Federal University of Alagoas);  
 - 🌱 Growing bigger in my web full stack development skills.

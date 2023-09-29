@@ -3,7 +3,7 @@
  -->
 
 - :books: I'm A Brazilian computer science student at UFAL(Federal University of Alagoas);  
-- 🌱 Growing bigger in my web full stack development skills.
+- 🌱 Growing in my web full stack development skills.
 
 **Languages and tools that I know a little bit:**
 <div>

@@ -5,7 +5,7 @@
 - :books: I'm A Brazilian computer science student at UFAL(Federal University of Alagoas);  
 - 🌱 Growing in my web full stack development skills.
 
-**Languages and tools that I know a little bit:**
+**Languages and tools that I have experience with:**
 <div>
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

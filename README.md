@@ -1,7 +1,7 @@
-Hello, I'm Danilo Freire! 👋
-📚 I'm a passionate Computer Science student at UFAL (Federal University of Alagoas), Brazil.
-🌱 Currently enhancing my full-stack web development skills.
-Languages and Tools I'm Skilled In:
+# Hello, I'm Danilo Freire! 👋  
+📚 I'm a passionate Computer Science student at UFAL (Federal University of Alagoas), Brazil.  
+🌱 Currently enhancing my full-stack web development skills.  
+Languages and Tools I'm Skilled In:  
 
 <div>
   <!-- Icons for languages and tools -->

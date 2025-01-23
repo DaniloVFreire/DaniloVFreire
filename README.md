@@ -18,6 +18,7 @@ Languages and Tools I'm Skilled In:
   <img align="center" alt="Godot" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg">
   <img align="center" alt="Unity" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
 </div>
+<br>
 Let's Connect!
 
 💼 Connecting and sharing professional updates on <a href='https://www.linkedin.com/in/danilo-v-freire/'>LinkedIn</a>
